@@ -13,7 +13,7 @@ This is a simulated help center created in Confluence, structured like documenta
 - ✅ An FAQ section
 - ✅ Clear navigation and internal linking
 
-👉 [📄 View project summary](whatsapp-help-summary.md)
+👉 [📄 View project summary](whatsapp-help-summary)
 
 📸 Screenshot of the Confluence space:
 
